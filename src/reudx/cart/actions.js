@@ -19,3 +19,7 @@ export const decraseProductQuantity = (payload) => ({
   type: CartActionsTypes.DECRASE_PRODUCT_QUANTITY,
   payload,
 })
+
+export const clearCart = () => ({
+  type: CartActionsTypes.CLEAR_CART,
+})
