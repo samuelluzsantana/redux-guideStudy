@@ -41,6 +41,15 @@ const resources = {
         checkout: "Finalizar Compra",
         continueShopping: "Continuar comprando",
       },
+      // Checkout Success
+      success: {
+        paid: "Pago",
+        to: "para DMRC limited",
+        viewDetails: "Ver detalhes da transação",
+        greeting: "Esperamos que tenha tido uma ótima viagem :D",
+        farewell: "Parabéns por usar o transporte público. Até logo!",
+        backButton: "Voltar para o Início",
+      },
       // Language
       lang: {
         label: "PT",
@@ -81,6 +90,14 @@ const resources = {
         total: "Total",
         checkout: "Proceed to checkout",
         continueShopping: "Continue shopping",
+      },
+      success: {
+        paid: "Paid",
+        to: "to DMRC limited",
+        viewDetails: "View transaction details",
+        greeting: "Hope you had a great ride :D",
+        farewell: "Kudos on using the public transport. See you soon!",
+        backButton: "Back to Home",
       },
       lang: {
         label: "EN",
